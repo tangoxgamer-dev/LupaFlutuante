@@ -1,0 +1,9 @@
+LUPA FLUTUANTE - PROTOTIPO 1.0
+
+1. Crie um repositorio GitHub vazio.
+2. Envie o CONTEUDO desta pasta para a raiz do repositorio, incluindo .github/workflows/android.yml.
+3. Abra Actions > Gerar APK Android > Run workflow (ou aguarde o push).
+4. Abra o resultado da execucao > Artifacts > LupaFlutuante-APK.
+5. Baixe o ZIP do artifact, extraia o APK e instale no Android.
+
+ATENCAO: este e um prototipo experimental, ainda nao testado em dispositivo real. A captura pode ser bloqueada por aplicativos protegidos. O Android solicitara permissao de sobreposicao e autorizacao de captura de tela. O zoom pode ter atraso e consumir bateria.
